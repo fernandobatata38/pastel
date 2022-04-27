@@ -80,7 +80,7 @@ function draw() {
         gameState=END;
         
         // boy.addAnimation(endImg);
-        // boy.addAnimation("SahilRunning",endImg);
+         boy.addAnimation("SahilRunning",endImg);
         // boy.addAnimation("SahilRunning");
         // boy.addAnimation(SahilRunning,endImg);
 
@@ -98,10 +98,10 @@ function draw() {
         // jewelryG.destroy();
         // swordGroup.destroy();
         
-        // cashG.destroyEach();
-        // diamondsG.destroyEach();
-        // jewelryG.destroyEach();
-        // swordGroup.destroyEach();
+         cashG.destroyEach();
+         diamondsG.destroyEach();
+         jewelryG.destroyEach();
+         swordGroup.destroyEach();
         
         // cashGdestroyEach();
         // diamondsGdestroyEach();
